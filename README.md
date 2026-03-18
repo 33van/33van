@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Evan, someone who is interested in software development also looking forward to exploring the world of AI.
+
+## Languages: Python, C++, Java
+
 <!--
 **33van/33van** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
